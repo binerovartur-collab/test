@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ezcad_Funtion_Show", "Ezcad_Funtion_Show.csproj", "{213E2B33-02AF-4C34-A1F9-A66678E2015E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{213E2B33-02AF-4C34-A1F9-A66678E2015E}.Debug|x86.ActiveCfg = Debug|x86
+		{213E2B33-02AF-4C34-A1F9-A66678E2015E}.Debug|x86.Build.0 = Debug|x86
+		{213E2B33-02AF-4C34-A1F9-A66678E2015E}.Release|x86.ActiveCfg = Release|x86
+		{213E2B33-02AF-4C34-A1F9-A66678E2015E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

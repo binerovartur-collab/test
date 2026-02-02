@@ -1,0 +1,129 @@
+[2023-05-12 10:17:59:0101] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 10:17:59:0795] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 10:17:59:0816] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[5132]
+[2023-05-12 10:17:59:0816] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[11560]
+[2023-05-12 10:17:59:0820] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 10:18:56:0377] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2023-05-12 10:18:56:0406] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2023-05-12 10:18:56:0466] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2023-05-12 10:21:15:0409] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 10:21:16:0040] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 10:21:16:0061] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[11204]
+[2023-05-12 10:21:16:0061] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[5680]
+[2023-05-12 10:21:16:0065] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 10:21:43:0238] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2023-05-12 10:21:43:0297] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2023-05-12 10:21:43:0328] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2023-05-12 10:23:07:0051] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 10:23:07:0802] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 10:23:07:0823] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[5208]
+[2023-05-12 10:23:07:0824] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[2952]
+[2023-05-12 10:23:07:0827] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 10:23:53:0792] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2023-05-12 10:23:53:0857] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2023-05-12 10:23:53:0882] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2023-05-12 10:24:26:0385] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 10:24:27:0012] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 10:24:27:0034] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[10340]
+[2023-05-12 10:24:27:0034] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[7368]
+[2023-05-12 10:24:27:0038] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 10:25:30:0191] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 10:25:30:0823] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 10:25:30:0844] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[13344]
+[2023-05-12 10:25:30:0844] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[6524]
+[2023-05-12 10:25:30:0847] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 10:26:09:0681] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 10:26:10:0350] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 10:26:10:0371] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[11340]
+[2023-05-12 10:26:10:0371] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[9440]
+[2023-05-12 10:26:10:0375] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 10:26:25:0655] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2023-05-12 10:26:25:0744] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2023-05-12 10:26:25:0751] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2023-05-12 10:28:35:0818] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 10:28:36:0508] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 10:28:36:0531] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[2784]
+[2023-05-12 10:28:36:0531] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[13476]
+[2023-05-12 10:28:36:0534] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 10:28:36:0538] |         XmlParse.cpp-L2576: SetNodeValue [SharpnessEnable], [Node is not writable. : AccessException thrown in node 'SharpnessEnable' while calling 'SharpnessEnable.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 10:28:45:0371] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2023-05-12 10:28:45:0379] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2023-05-12 10:28:45:0461] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2023-05-12 10:28:56:0501] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 10:28:57:0140] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 10:28:57:0162] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[12152]
+[2023-05-12 10:28:57:0162] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[1084]
+[2023-05-12 10:28:57:0165] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 10:28:57:0168] |         XmlParse.cpp-L2576: SetNodeValue [SharpnessEnable], [Node is not writable. : AccessException thrown in node 'SharpnessEnable' while calling 'SharpnessEnable.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 10:29:22:0930] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2023-05-12 10:29:22:0996] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2023-05-12 10:29:23:0020] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2023-05-12 13:24:26:0416] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 13:24:27:0234] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 13:24:27:0257] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[6116]
+[2023-05-12 13:24:27:0257] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[4740]
+[2023-05-12 13:24:27:0262] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 13:25:21:0200] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2023-05-12 13:25:21:0256] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2023-05-12 13:25:21:0290] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2023-05-12 13:25:54:0774] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 13:25:55:0607] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 13:25:55:0631] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[4428]
+[2023-05-12 13:25:55:0631] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[15088]
+[2023-05-12 13:25:55:0635] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 13:29:12:0482] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2023-05-12 13:29:12:0485] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2023-05-12 13:29:12:0571] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2023-05-12 13:31:18:0659] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 13:31:19:0129] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 13:31:19:0148] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[16612]
+[2023-05-12 13:31:19:0148] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[16604]
+[2023-05-12 13:31:19:0152] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 13:31:28:0178] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2023-05-12 13:31:28:0200] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2023-05-12 13:31:28:0268] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2023-05-12 13:38:44:0608] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 13:38:45:0088] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 13:38:45:0108] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[14352]
+[2023-05-12 13:38:45:0108] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[13212]
+[2023-05-12 13:38:45:0112] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 13:38:48:0646] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2023-05-12 13:38:48:0727] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2023-05-12 13:38:48:0736] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2023-05-12 13:48:58:0494] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 13:48:58:0965] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 13:48:58:0984] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[5564]
+[2023-05-12 13:48:58:0985] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[10328]
+[2023-05-12 13:48:58:0987] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 13:49:02:0096] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2023-05-12 13:49:02:0102] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2023-05-12 13:49:02:0187] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2023-05-12 14:02:09:0047] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 14:02:09:0518] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 14:02:09:0538] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[16408]
+[2023-05-12 14:02:09:0538] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[16332]
+[2023-05-12 14:02:09:0541] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 14:02:54:0306] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2023-05-12 14:02:54:0319] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2023-05-12 14:02:54:0396] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2023-05-12 14:03:33:0179] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 14:03:33:0654] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 14:03:33:0674] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[13612]
+[2023-05-12 14:03:33:0674] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[17144]
+[2023-05-12 14:03:33:0678] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 14:04:26:0801] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 14:04:27:0278] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 14:04:27:0298] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[6000]
+[2023-05-12 14:04:27:0298] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[17120]
+[2023-05-12 14:04:27:0301] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 14:05:57:0214] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2023-05-12 14:05:57:0288] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2023-05-12 14:05:57:0304] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2023-05-12 14:05:58:0620] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2023-05-12 14:05:59:0097] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [5015552]
+[2023-05-12 14:05:59:0117] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[3428]
+[2023-05-12 14:05:59:0117] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[13612]
+[2023-05-12 14:05:59:0119] |         XmlParse.cpp-L2576: SetNodeValue [ReverseY], [Node is not writable. : AccessException thrown in node 'ReverseY' while calling 'ReverseY.SetValue()' (file 'BooleanT.h', line 61)]
+[2023-05-12 14:07:18:0549] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2023-05-12 14:07:18:0551] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2023-05-12 14:07:18:0561] | CInterfaceManager.cpp-L4156: DisplayProcess exit

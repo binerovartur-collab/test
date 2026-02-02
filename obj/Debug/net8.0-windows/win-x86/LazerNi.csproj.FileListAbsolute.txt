@@ -1,0 +1,489 @@
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop.v11.suo
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\app.config
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\800w.cal
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\BJJCZ_BaseDevelop.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\BJJCZ_BaseDevelop.exe.config
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\BJJCZ_BaseDevelop.pdb
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\BJJCZ_BaseDevelop.vshost.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\BJJCZ_BaseDevelop.vshost.exe.manifest
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\cfglog.txt
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\CirArrayParam.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\CoeFile.cfg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\CorFile2.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\Custom.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\DataMgr.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\default.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\DlgArrayParam.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\EZCAD.CFG
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\EzCad2.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\FONT\ARCHD.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\FONT\ARCHF.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\FONT\ARCHS.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\FONT\archstyl.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\FONT\JCZ-SONG.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\FONT\Jcz5X7.dmf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\FONT\JczTest.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\FONT\qqqq.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\FONT\ROMANS2.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\J8.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\CameraMarkLang.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Arabic.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Chs.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Cht.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Czech.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Danish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Dutch.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_English.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Enu.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Finnish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Fre.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_French.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_German.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Greek.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Hungarian.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Italian.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_jan.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Japanese.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Korean.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Latin American.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Norwegian.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Polish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Portuguese.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Russian.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Simplified Chinese.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Slovenian.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Spanish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Swedish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Traditional Chinese.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LANG\lang_Turkish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\Lmc1.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LMCMIO.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\LMCV4_20230423-LMC1驱动.rar
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\log.txt
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\MarkEzd.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\mathlib.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\mswlaser.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\MultiMarkEzd.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\MVAPI.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\MVBayerDec.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\MVCAPI.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\MVParm.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\MvSdkLog\CamCtrl_00.log
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\MvSdkLog\GigE_00.log
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\NcPath.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\PARAM\MarkParam.lib
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\PARAM\UserParam.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\AngleRotate.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\AngleRotate2.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\ChangeText.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\extend.par
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\GlobeMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\home.par
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\IPGSet.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\jczfont.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\LaserExtOutput.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\markcfg0
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\markcfg2
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\markcfg3
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\markcfg4
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\markcfg5
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\markcfg7
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\MultiFileMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\MultiPartMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\MultiPartMarkPART.txt
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\PowerRuler.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\ProjectMark.par
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\ReadFace3d.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\ring.par
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\RingMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\RingTextMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\RotaryMark.par
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\RotaryMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\RotateText.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\Splitmark2.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\plug\SuperProject.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\QDib.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\QIL.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\QLib.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\RectArrayParam.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\1.png
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\800w.cal
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\Company - 副本.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\Company.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\drawbar.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\drawbar_dis.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype0.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype1.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype10.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype11.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype12.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype13.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype14.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype15.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype16.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype17.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype18.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype2.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype3.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype4.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype5.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype6.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype7.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype8.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\enttype9.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\license.txt
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\license_en.txt
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\Logo.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\Logo1.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\MarkOff.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\MarkOn.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\param.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\sysbar.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\sysbar_dis.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\Thumbs.db
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\weld_drawbar.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\weld_drawbar_dis.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\Zoom.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\ZoomAll.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\zoombar.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\zoombar_dis.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\ZoomIn.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\ZoomOut.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\ZoomPage.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\ZoomPan.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\res\ZoomWnd.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\Usb.log
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.csproj.AssemblyReference.cache
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.csproj.CoreCompileInputs.cache
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.csproj.FileListAbsolute.txt
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.csproj.GenerateResource.cache
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.csproj.SuggestedBindingRedirects.cache
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.Form1.resources
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.pdb
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.Properties.Resources.resources
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\TempPE\Properties.Resources.Designer.cs.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\Properties\Settings.settings
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\cfglog.txt
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\CorFile2.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\Custom.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\DataMgr.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\default.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\EZCAD.CFG
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\EzCad2.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\FONT\ARCHD.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\FONT\ARCHF.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\FONT\ARCHS.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\FONT\archstyl.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\FONT\JCZ-SONG.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\FONT\Jcz5X7.dmf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\FONT\JczTest.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\FONT\qqqq.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\FONT\ROMANS2.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\J8.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\CameraMarkLang.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Arabic.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Chs.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Cht.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Czech.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Danish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Dutch.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_English.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Enu.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Finnish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_French.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_German.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Greek.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Hungarian.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Italian.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_jan.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Japanese.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Korean.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Latin American.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Norwegian.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Polish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Portuguese.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Russian.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Simplified Chinese.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Slovenian.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Spanish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Swedish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Traditional Chinese.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LANG\lang_Turkish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\Lmc1.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LMCMIO.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\LMCV4_20230423-LMC1驱动.rar
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\log.txt
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\MarkEzd.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\mathlib.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\MVAPI.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\MVBayerDec.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\MVCAPI.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\MVParm.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\NcPath.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\PARAM\MarkParam.lib
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\PARAM\UserParam.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\AngleRotate.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\AngleRotate2.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\ChangeText.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\GlobeMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\IPGSet.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\jczfont.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\markcfg0
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\MultiFileMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\MultiPartMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\PowerRuler.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\RingMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\RingTextMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\RotaryMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\RotateText.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\Splitmark2.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\plug\SuperProject.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\QDib.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\QLib.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\Company.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\drawbar.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\drawbar_dis.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype0.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype1.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype10.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype11.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype12.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype13.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype14.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype15.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype16.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype17.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype18.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype2.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype3.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype4.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype5.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype6.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype7.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype8.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\enttype9.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\license.txt
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\license_en.txt
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\Logo.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\MarkOff.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\MarkOn.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\param.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\sysbar.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\sysbar_dis.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\Thumbs.db
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\weld_drawbar.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\weld_drawbar_dis.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\Zoom.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\ZoomAll.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\zoombar.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\zoombar_dis.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\ZoomIn.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\ZoomOut.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\ZoomPage.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\ZoomPan.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad2(20251229)-SDK\res\ZoomWnd.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\app.config
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\AUTOSAVE.EZD
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\cfglog.txt
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\CoeFile.cfg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\CorFile2.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\Custom.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\DataMgr.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\default.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\DemoEzd.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\EZCAD.CFG
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\EzCad2.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.pdb
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.vshost.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.vshost.exe.manifest
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\FONT\ARCHD.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\FONT\ARCHF.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\FONT\ARCHS.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\FONT\archstyl.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\FONT\JCZ-SONG.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\FONT\Jcz5X7.dmf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\FONT\JczTest.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\FONT\qqqq.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\FONT\ROMANS2.jsf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\FONT\SF-Compact-Text-Regular.otf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\J8.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\CameraMarkLang.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Arabic.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Chs.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Cht.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Czech.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Danish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Dutch.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_English.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Enu.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Finnish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_French.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_German.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Greek.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Hungarian.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Italian.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_jan.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Japanese.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Korean.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Latin American.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Norwegian.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Polish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Portuguese.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Russian.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Simplified Chinese.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Slovenian.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Spanish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Swedish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Traditional Chinese.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\lang_Turkish.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LANG\vssver.scc
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\Lmc1.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LMCMIO.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\LMCV4_20230423-LMC1驱动.rar
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\log.txt
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\MarkEzd.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\mathlib.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\MVAPI.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\MVBayerDec.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\MVCAPI.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\MVParm.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\NcPath.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\PARAM\MarkParam.lib
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\PARAM\UserParam.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\AngleRotate.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\AngleRotate2.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\ChangeText.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\extend.par
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\GlobeMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\home.par
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\IPGSet.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\jczfont.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\LaserExtOutput.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\markcfg0
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\markcfg1
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\markcfg2
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\markcfg3
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\markcfg4
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\markcfg5
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\markcfg6
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\markcfg7
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\MultiFileMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\MultiPartMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\param.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\PowerRuler.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\ReadFace3d.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\ring.par
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\RingMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\RingTextMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\RotaryMark.par
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\RotaryMark.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\RotateText.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\Splitmark2.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\plug\SuperProject.plg
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\QDib.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\QLib.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\Company.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\drawbar.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\drawbar_dis.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype0.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype1.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype10.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype11.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype12.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype13.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype14.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype15.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype16.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype17.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype18.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype2.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype3.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype4.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype5.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype6.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype7.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype8.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\enttype9.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\license.txt
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\license_en.txt
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\Logo.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\MarkOff.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\MarkOn.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\param.ini
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\sysbar.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\sysbar_dis.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\Thumbs.db
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\weld_drawbar.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\weld_drawbar_dis.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\Zoom.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\ZoomAll.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\zoombar.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\zoombar_dis.bmp
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\ZoomIn.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\ZoomOut.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\ZoomPage.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\ZoomPan.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\res\ZoomWnd.ico
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\UniTurn.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\bin\Debug\Usb.log
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\Ezcad_Funtion_Show.suo
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\Ezcad_Funtion_Show.v11.suo
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\obj\x86\Debug\DesignTimeResolveAssemblyReferences.cache
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.csproj.AssemblyReference.cache
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.csproj.CoreCompileInputs.cache
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.csproj.FileListAbsolute.txt
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.csproj.GenerateResource.Cache
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.csprojAssemblyReference.cache
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.csprojResolveAssemblyReference.cache
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.Form1.resources
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.pdb
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.Properties.Resources.resources
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\obj\x86\Debug\TempPE\Properties.Resources.Designer.cs.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\Ezcad_Funtion_Show\Properties\Settings.settings
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SDK\MarkEzddll_Manual_EN-20190909.pdf
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\settings.json
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\LazerNi.exe
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\LazerNi.dll.config
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\LazerNi.deps.json
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\LazerNi.runtimeconfig.json
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\LazerNi.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\LazerNi.pdb
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\ControlzEx.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\MahApps.Metro.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\Microsoft.Data.Sqlite.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\Microsoft.Xaml.Behaviors.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\Newtonsoft.Json.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SQLitePCLRaw.batteries_v2.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SQLitePCLRaw.core.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\de\MahApps.Metro.resources.dll
+C:\Users\88\Documents\SourceCode\bin\Debug\net8.0-windows\win-x86\e_sqlite3.dll
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\LazerNi.csproj.AssemblyReference.cache
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\MainWindow.baml
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\ProductSelectionWindow.baml
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\SettingsWindow.baml
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\App.baml
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\MainWindow.g.cs
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\ProductSelectionWindow.g.cs
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\SettingsWindow.g.cs
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\App.g.cs
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\LazerNi_MarkupCompile.cache
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\LazerNi.g.resources
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\LazerNi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\LazerNi.AssemblyInfoInputs.cache
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\LazerNi.AssemblyInfo.cs
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\LazerNi.csproj.CoreCompileInputs.cache
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\LazerNi.csproj.CopyComplete
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\LazerNi.dll
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\refint\LazerNi.dll
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\LazerNi.pdb
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\LazerNi.genruntimeconfig.cache
+C:\Users\88\Documents\SourceCode\obj\Debug\net8.0-windows\win-x86\ref\LazerNi.dll

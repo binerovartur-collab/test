@@ -1,0 +1,8 @@
+{
+  "TcpServerIp": "0.0.0.0",
+  "TcpServerPort": 9999,
+  "SdkPath": "SDK",
+  "TestMode": true,
+  "LaserCenterX": 50.0,
+  "LaserCenterY": 50.0
+}

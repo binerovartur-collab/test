@@ -1,0 +1,47 @@
+C:\Work\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.Form1.resources
+C:\Work\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.Properties.Resources.resources
+C:\Work\C#dll_ezcad2\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.exe
+C:\Work\C#dll_ezcad2\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.pdb
+C:\Work\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.exe
+C:\Work\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.pdb
+C:\Work\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\C#dll_ezcad2\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.exe
+D:\Work\C#dll_ezcad2\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.pdb
+D:\Work\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.Form1.resources
+D:\Work\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.Properties.Resources.resources
+D:\Work\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.exe
+D:\Work\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.pdb
+D:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.exe
+D:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.pdb
+D:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.Form1.resources
+D:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.Properties.Resources.resources
+D:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.csproj.GenerateResource.Cache
+D:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.exe
+D:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.pdb
+Z:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.exe
+Z:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.pdb
+Z:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.Form1.resources
+Z:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.Properties.Resources.resources
+Z:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.exe
+Z:\WORK\Data\C#dll_ezcad2\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.pdb
+D:\WORK\Data\JCZ二次开发资料\DEMO\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.exe
+D:\WORK\Data\JCZ二次开发资料\DEMO\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.pdb
+C:\LIUTAO\工作\SDK\ezcad2.0  demo\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.exe
+C:\LIUTAO\工作\SDK\ezcad2.0  demo\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.pdb
+C:\LIUTAO\工作\SDK\ezcad2.0  demo\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.exe
+C:\LIUTAO\工作\SDK\ezcad2.0  demo\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.pdb
+C:\LIUTAO\工作\SDK\ezcad2.0  demo\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.csprojResolveAssemblyReference.cache
+C:\LIUTAO\工作\SDK\ezcad2.0  demo\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.Form1.resources
+C:\LIUTAO\工作\SDK\ezcad2.0  demo\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.Properties.Resources.resources
+C:\LIUTAO\工作\SDK\ezcad2.0  demo\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.csproj.GenerateResource.Cache
+D:\liutao\工作\A-SDK\ezcad2.0  demo\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.exe
+D:\liutao\工作\A-SDK\ezcad2.0  demo\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.pdb
+D:\liutao\工作\A-SDK\ezcad2.0  demo\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.exe
+D:\liutao\工作\A-SDK\ezcad2.0  demo\Ezcad_Funtion_Show\bin\Debug\Ezcad_Funtion_Show.pdb
+D:\liutao\工作\A-SDK\ezcad2.0  demo\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.csprojResolveAssemblyReference.cache
+D:\liutao\工作\A-SDK\ezcad2.0  demo\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.Form1.resources
+D:\liutao\工作\A-SDK\ezcad2.0  demo\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.Properties.Resources.resources
+D:\liutao\工作\A-SDK\ezcad2.0  demo\Ezcad_Funtion_Show\obj\x86\Debug\Ezcad_Funtion_Show.csproj.GenerateResource.Cache

@@ -1,0 +1,1017 @@
+[2023-05-12 10:17:59:0106] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 10:17:59:0106] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 10:17:59:0107] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:17:59:0107] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:17:59:0107] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[56042], devIP[a9fe4140]
+[2023-05-12 10:17:59:0108] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe4140]
+[2023-05-12 10:17:59:0108] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:17:59:0110] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 10:17:59:0590] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:17:59:0811] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 10:17:59:0813] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[11616]
+[2023-05-12 10:18:56:0366] | GigEVisionManager.cpp-L2308: AppGetCount[1056], AppGetCountSucceed[1053], ExpectRecv[1053], NetRecv[1053], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:18:56:0479] | GigEVisionManager.cpp-L2308: AppGetCount[1056], AppGetCountSucceed[1053], ExpectRecv[1053], NetRecv[1053], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:18:56:0479] | GigEVisionManager.cpp-L0898: disconnect device ...
+[2023-05-12 10:18:56:0481] | GigEVisionManager.cpp-L2840: event thread stop
+[2023-05-12 10:18:56:0493] | GigEVisionManager.cpp-L2308: AppGetCount[1056], AppGetCountSucceed[1053], ExpectRecv[1053], NetRecv[1053], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:18:56:0493] | GigEVisionManager.cpp-L2707: SendRsdCmd thread stop
+[2023-05-12 10:18:57:0433] |   GigEVisionGVSP.cpp-L0417: [socket] NearBID[0], LastBID[0], output[0]
+[2023-05-12 10:21:15:0414] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 10:21:15:0414] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 10:21:15:0414] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:21:15:0414] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:21:15:0414] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[56343], devIP[a9fe4140]
+[2023-05-12 10:21:15:0416] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe4140]
+[2023-05-12 10:21:15:0416] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:21:15:0418] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 10:21:15:0848] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:21:16:0056] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 10:21:16:0058] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[5228]
+[2023-05-12 10:21:43:0227] | GigEVisionManager.cpp-L2308: AppGetCount[508], AppGetCountSucceed[504], ExpectRecv[504], NetRecv[504], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:21:43:0341] | GigEVisionManager.cpp-L2308: AppGetCount[508], AppGetCountSucceed[504], ExpectRecv[504], NetRecv[504], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:21:43:0341] | GigEVisionManager.cpp-L0898: disconnect device ...
+[2023-05-12 10:21:43:0354] | GigEVisionManager.cpp-L2308: AppGetCount[508], AppGetCountSucceed[504], ExpectRecv[504], NetRecv[504], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:21:43:0354] | GigEVisionManager.cpp-L2707: SendRsdCmd thread stop
+[2023-05-12 10:21:43:0392] | GigEVisionManager.cpp-L2840: event thread stop
+[2023-05-12 10:21:43:0649] |   GigEVisionGVSP.cpp-L0417: [socket] NearBID[0], LastBID[0], output[0]
+[2023-05-12 10:23:07:0055] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 10:23:07:0055] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 10:23:07:0055] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:23:07:0055] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:23:07:0055] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[56378], devIP[a9fe4140]
+[2023-05-12 10:23:07:0056] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe4140]
+[2023-05-12 10:23:07:0056] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:23:07:0058] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 10:23:07:0544] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:23:07:0817] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 10:23:07:0820] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[12396]
+[2023-05-12 10:23:53:0781] | GigEVisionManager.cpp-L2308: AppGetCount[858], AppGetCountSucceed[856], ExpectRecv[856], NetRecv[856], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:23:53:0896] | GigEVisionManager.cpp-L2308: AppGetCount[858], AppGetCountSucceed[856], ExpectRecv[856], NetRecv[856], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:23:53:0896] | GigEVisionManager.cpp-L0898: disconnect device ...
+[2023-05-12 10:23:53:0896] | GigEVisionManager.cpp-L2707: SendRsdCmd thread stop
+[2023-05-12 10:23:53:0909] | GigEVisionManager.cpp-L2308: AppGetCount[858], AppGetCountSucceed[856], ExpectRecv[856], NetRecv[856], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:23:53:0915] | GigEVisionManager.cpp-L2840: event thread stop
+[2023-05-12 10:23:54:0542] |   GigEVisionGVSP.cpp-L0417: [socket] NearBID[0], LastBID[0], output[0]
+[2023-05-12 10:24:26:0389] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 10:24:26:0389] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 10:24:26:0390] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:24:26:0390] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:24:26:0390] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[56391], devIP[a9fe4140]
+[2023-05-12 10:24:26:0391] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe4140]
+[2023-05-12 10:24:26:0391] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:24:26:0393] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 10:24:26:0820] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:24:27:0028] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 10:24:27:0030] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[9044]
+[2023-05-12 10:25:30:0195] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 10:25:30:0195] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 10:25:30:0195] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:25:30:0195] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:25:30:0196] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[55372], devIP[a9fe4140]
+[2023-05-12 10:25:30:0197] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe4140]
+[2023-05-12 10:25:30:0197] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:25:30:0199] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 10:25:30:0625] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:25:30:0838] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 10:25:30:0841] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[13104]
+[2023-05-12 10:25:30:0917] | GigEVisionManager.cpp-L4487: Lost Frame From Net[77], Total Frame Count[0], NetCount[78], CurBlock[0], LastBlock[1]
+[2023-05-12 10:26:09:0685] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 10:26:09:0685] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 10:26:09:0685] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:26:09:0686] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:26:09:0686] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[55386], devIP[a9fe4140]
+[2023-05-12 10:26:09:0687] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe4140]
+[2023-05-12 10:26:09:0687] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:26:09:0689] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 10:26:10:0121] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:26:10:0366] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 10:26:10:0368] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[4416]
+[2023-05-12 10:26:10:0445] | GigEVisionManager.cpp-L4487: Lost Frame From Net[154], Total Frame Count[0], NetCount[155], CurBlock[0], LastBlock[1]
+[2023-05-12 10:26:25:0644] | GigEVisionManager.cpp-L2308: AppGetCount[286], AppGetCountSucceed[284], ExpectRecv[438], NetRecv[284], ThrowAbnormalImage[0], NetLostFrame[154], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:26:25:0765] | GigEVisionManager.cpp-L2308: AppGetCount[286], AppGetCountSucceed[284], ExpectRecv[438], NetRecv[284], ThrowAbnormalImage[0], NetLostFrame[154], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:26:25:0765] | GigEVisionManager.cpp-L0898: disconnect device ...
+[2023-05-12 10:26:25:0778] | GigEVisionManager.cpp-L2308: AppGetCount[286], AppGetCountSucceed[284], ExpectRecv[438], NetRecv[284], ThrowAbnormalImage[0], NetLostFrame[154], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:26:25:0778] | GigEVisionManager.cpp-L2707: SendRsdCmd thread stop
+[2023-05-12 10:26:25:0827] | GigEVisionManager.cpp-L2840: event thread stop
+[2023-05-12 10:26:25:0890] |   GigEVisionGVSP.cpp-L0417: [socket] NearBID[0], LastBID[0], output[0]
+[2023-05-12 10:28:35:0822] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 10:28:35:0822] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 10:28:35:0822] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:28:35:0823] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:28:35:0823] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[52762], devIP[a9fe84d8]
+[2023-05-12 10:28:35:0825] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe84d8]
+[2023-05-12 10:28:35:0825] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:28:35:0827] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 10:28:36:0302] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:28:36:0524] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 10:28:36:0527] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[7540]
+[2023-05-12 10:28:45:0361] | GigEVisionManager.cpp-L2308: AppGetCount[166], AppGetCountSucceed[164], ExpectRecv[164], NetRecv[164], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:28:45:0475] | GigEVisionManager.cpp-L2308: AppGetCount[166], AppGetCountSucceed[164], ExpectRecv[164], NetRecv[164], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:28:45:0475] | GigEVisionManager.cpp-L0898: disconnect device ...
+[2023-05-12 10:28:45:0475] | GigEVisionManager.cpp-L2707: SendRsdCmd thread stop
+[2023-05-12 10:28:45:0488] | GigEVisionManager.cpp-L2308: AppGetCount[166], AppGetCountSucceed[164], ExpectRecv[164], NetRecv[164], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:28:45:0527] | GigEVisionManager.cpp-L2840: event thread stop
+[2023-05-12 10:28:56:0505] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 10:28:56:0505] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 10:28:56:0505] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:28:56:0506] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:28:56:0506] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[51157], devIP[a9fe84d8]
+[2023-05-12 10:28:56:0507] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe84d8]
+[2023-05-12 10:28:56:0507] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:28:56:0509] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 10:28:56:0945] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 10:28:57:0156] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 10:28:57:0158] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[10972]
+[2023-05-12 10:29:22:0920] | GigEVisionManager.cpp-L2308: AppGetCount[482], AppGetCountSucceed[479], ExpectRecv[479], NetRecv[479], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:29:23:0034] | GigEVisionManager.cpp-L2308: AppGetCount[482], AppGetCountSucceed[479], ExpectRecv[479], NetRecv[479], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:29:23:0034] | GigEVisionManager.cpp-L0898: disconnect device ...
+[2023-05-12 10:29:23:0034] | GigEVisionManager.cpp-L2707: SendRsdCmd thread stop
+[2023-05-12 10:29:23:0046] | GigEVisionManager.cpp-L2308: AppGetCount[482], AppGetCountSucceed[479], ExpectRecv[479], NetRecv[479], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 10:29:23:0062] | GigEVisionManager.cpp-L2840: event thread stop
+[2023-05-12 10:29:23:0541] |   GigEVisionGVSP.cpp-L0417: [socket] NearBID[0], LastBID[0], output[0]
+[2023-05-12 13:24:26:0422] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 13:24:26:0422] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 13:24:26:0422] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:24:26:0423] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:24:26:0423] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[64224], devIP[a9fe4140]
+[2023-05-12 13:24:26:0424] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe4140]
+[2023-05-12 13:24:26:0424] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:24:26:0427] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 13:24:26:0958] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:24:27:0250] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 13:24:27:0254] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[15304]
+[2023-05-12 13:25:21:0189] | GigEVisionManager.cpp-L2308: AppGetCount[1008], AppGetCountSucceed[1005], ExpectRecv[1005], NetRecv[1005], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 13:25:21:0303] | GigEVisionManager.cpp-L2308: AppGetCount[1008], AppGetCountSucceed[1005], ExpectRecv[1005], NetRecv[1005], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 13:25:21:0303] | GigEVisionManager.cpp-L0898: disconnect device ...
+[2023-05-12 13:25:21:0316] | GigEVisionManager.cpp-L2308: AppGetCount[1008], AppGetCountSucceed[1005], ExpectRecv[1005], NetRecv[1005], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 13:25:21:0316] | GigEVisionManager.cpp-L2707: SendRsdCmd thread stop
+[2023-05-12 13:25:21:0367] | GigEVisionManager.cpp-L2840: event thread stop
+[2023-05-12 13:25:22:0350] |   GigEVisionGVSP.cpp-L0417: [socket] NearBID[0], LastBID[0], output[0]
+[2023-05-12 13:25:54:0780] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 13:25:54:0780] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 13:25:54:0780] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:25:54:0780] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:25:54:0781] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[64237], devIP[a9fe4140]
+[2023-05-12 13:25:54:0782] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe4140]
+[2023-05-12 13:25:54:0782] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:25:54:0784] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 13:25:55:0311] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:25:55:0624] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 13:25:55:0628] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[1092]
+[2023-05-12 13:27:05:0212] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0212] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0212] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0212] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0297] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0297] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0297] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0297] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0383] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0383] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0383] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0383] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0466] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0466] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0466] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0466] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0548] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0548] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0548] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0548] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0631] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0631] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0631] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0631] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0717] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0717] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0717] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0717] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0728] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0728] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0728] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0728] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0881] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0881] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0881] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0881] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0967] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0967] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:05:0967] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:05:0967] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0049] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0049] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0049] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0049] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0135] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0135] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0135] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0135] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0218] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0218] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0218] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0218] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0304] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0304] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0304] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0304] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0389] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0389] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0389] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0389] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0400] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0400] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0400] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0400] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0450] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0450] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0450] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0450] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0496] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0496] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0496] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0496] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0514] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0514] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0514] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0514] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0525] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0525] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0525] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0525] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0536] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0536] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0536] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0536] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0547] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0547] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0547] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0547] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0558] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0558] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0558] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0558] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0568] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0568] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0568] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0568] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0579] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0579] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0579] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0579] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0590] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0590] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0590] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0590] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0600] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0600] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0600] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0600] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0611] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0611] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0611] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0611] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0621] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0621] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0621] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0621] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0632] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0632] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0632] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0632] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0643] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0643] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0643] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0643] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0654] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0654] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0654] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0654] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0664] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0664] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0664] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0664] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0675] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0675] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0675] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0675] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0685] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0685] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0685] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0685] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0696] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0696] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0696] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0696] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0706] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0706] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0706] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0706] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0716] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0716] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0716] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0716] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0727] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0727] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0727] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0727] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0738] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0738] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0738] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0738] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0748] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0748] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0748] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0748] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0759] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0759] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0759] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0759] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0770] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0770] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0770] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0770] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0781] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0781] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0781] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0781] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0792] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0792] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0792] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0792] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0803] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0803] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0803] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0803] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0814] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0814] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0814] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0814] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0825] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0825] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0825] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0825] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0836] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0836] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0836] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0836] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0847] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0847] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0847] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0847] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0857] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0857] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0857] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0857] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0868] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0868] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0868] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0868] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0879] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0879] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0879] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0879] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0890] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0890] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0890] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0890] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0901] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0901] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0901] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0901] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0912] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0912] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0912] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0912] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0923] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0923] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0923] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0923] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0934] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0934] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0934] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0934] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0945] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0945] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0945] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0945] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0956] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0956] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0956] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0956] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0967] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0967] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0967] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0967] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0978] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0978] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0978] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0978] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0989] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0989] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:06:0989] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:06:0989] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0000] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0000] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0000] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0000] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0011] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0011] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0011] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0011] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0022] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0022] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0022] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0022] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0033] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0033] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0033] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0033] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0044] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0044] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0044] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0044] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0055] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0055] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0055] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0055] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0066] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0066] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0066] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0066] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0077] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0077] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0077] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0077] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0088] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0088] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0088] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0088] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0099] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0099] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0099] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0099] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0110] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0110] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0110] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0110] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0121] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0121] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0121] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0121] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0131] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0131] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0131] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0131] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0142] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0142] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0142] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0142] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0153] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0153] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0153] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0153] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0164] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0164] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0164] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0164] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0175] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0175] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0175] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0175] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0186] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0186] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0186] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0186] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0197] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0197] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0197] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0197] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0208] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0208] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0208] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0208] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0219] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0219] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0219] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0219] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0230] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0230] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0230] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0230] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0242] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0242] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0242] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0242] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0252] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0252] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0252] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0252] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0263] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0263] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0263] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0263] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0273] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0273] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0273] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0273] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0285] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0285] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0285] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0285] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0295] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0295] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0295] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0295] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0306] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0306] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0306] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0306] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0317] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0317] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0317] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0317] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0328] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0328] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0328] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0328] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0339] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0339] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0339] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0339] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0351] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0351] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0351] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0351] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0362] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0362] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0362] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0362] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0373] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0373] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0373] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0373] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0383] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0383] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0383] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0383] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0394] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0394] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0394] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0394] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0404] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0404] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0404] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0404] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0415] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0415] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0415] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0415] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0427] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0427] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0427] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0427] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0438] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0438] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0438] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0438] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0449] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0449] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0449] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0449] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0459] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0459] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0459] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0459] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0469] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0469] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0469] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0469] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0480] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0480] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0480] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0480] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0491] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0491] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0491] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0491] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0502] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0502] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0502] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0502] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0513] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0513] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0513] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0513] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0524] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0524] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0524] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0524] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0535] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0535] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0535] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0535] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0546] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0546] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0546] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0546] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0557] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0557] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0557] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0557] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0568] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0568] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0568] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0568] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0579] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0579] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0579] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0579] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0591] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0591] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0591] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0591] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0602] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0602] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0602] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0602] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0613] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0613] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0613] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0613] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0623] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0623] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0623] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0623] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0634] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0634] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0634] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0634] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0645] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0645] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0645] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0645] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0655] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0655] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0655] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0655] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0666] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0666] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0666] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0666] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0677] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0677] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0677] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0677] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0688] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0688] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0688] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0688] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0700] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0700] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0700] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0700] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0711] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0711] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0711] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0711] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0722] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0722] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0722] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0722] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0732] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0732] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0732] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0732] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0743] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0743] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0743] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0743] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0754] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0754] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0754] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0754] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0764] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0764] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0764] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0764] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0775] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0775] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0775] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0775] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0786] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0786] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0786] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0786] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0796] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0796] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0796] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0796] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0807] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0807] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0807] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0807] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0818] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0818] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0818] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0818] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0829] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0829] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0829] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0829] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0841] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0841] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0841] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0841] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0852] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0852] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0852] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0852] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0862] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0862] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0862] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0862] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0873] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0873] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0873] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0873] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0884] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0884] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0884] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0884] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0895] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0895] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0895] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0895] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0906] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0906] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0906] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0906] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0917] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0917] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0917] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0917] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0928] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0928] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0928] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0928] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0939] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0939] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0939] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0939] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0951] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0951] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0951] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0951] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0961] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0961] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0961] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0961] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0972] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0972] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0972] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0972] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0983] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0983] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0983] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0983] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0993] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0993] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:07:0993] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:07:0993] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0004] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0004] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0004] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0004] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0015] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0015] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0015] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0015] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0026] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0026] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0026] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0026] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0037] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0037] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0037] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0037] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0048] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0048] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0048] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0048] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0059] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0059] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0059] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0059] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0070] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0070] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0070] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0070] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0080] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0080] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0080] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0080] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0091] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0091] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0091] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0091] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0102] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0102] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0102] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0102] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0113] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0113] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0113] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0113] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0124] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0124] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0124] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0124] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0135] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0135] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0135] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0135] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0147] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0147] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0147] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0147] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0157] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0157] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0157] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0157] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0168] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0168] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0168] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0168] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0179] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0179] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0179] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0179] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0190] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0190] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0190] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0190] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0200] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0200] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0200] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0200] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0211] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0211] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0211] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0211] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0221] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0221] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0221] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0221] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0221] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0221] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0221] |           NetUDP.cpp-L0708: sendto errror! [10055], preSend[12], actually send[-1]
+[2023-05-12 13:27:08:0221] |   GigEVisionGVCP.cpp-L1513: gvcp UDP_Writen pre send len[12], IP[a9fe4140], Port[3956], return[-1]!
+[2023-05-12 13:27:08:0221] |   GigEVisionGVCP.cpp-L1799: gvcp connect time out! [3000],  nPrivilegeValue[1], nHaveTimeOut[3009.465], fStart[29479210.186], sendHeartBeatTimes[176]
+[2023-05-12 13:29:12:0471] |   GigEVisionGVCP.cpp-L1474: GVCP_WriteCmd fail [80000206], because m_bExit 
+[2023-05-12 13:29:12:0471] | GigEVisionManager.cpp-L2308: AppGetCount[1568], AppGetCountSucceed[1291], ExpectRecv[1291], NetRecv[1291], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 13:29:12:0571] | GigEVisionManager.cpp-L2308: AppGetCount[1569], AppGetCountSucceed[1291], ExpectRecv[1291], NetRecv[1291], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 13:29:12:0571] | GigEVisionManager.cpp-L0898: disconnect device ...
+[2023-05-12 13:29:12:0571] | GigEVisionManager.cpp-L2707: SendRsdCmd thread stop
+[2023-05-12 13:29:12:0571] | GigEVisionManager.cpp-L2308: AppGetCount[1569], AppGetCountSucceed[1291], ExpectRecv[1291], NetRecv[1291], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 13:31:18:0660] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 13:31:18:0660] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 13:31:18:0660] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:31:18:0660] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:31:18:0661] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[58412], devIP[a9fe4140]
+[2023-05-12 13:31:18:0662] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe4140]
+[2023-05-12 13:31:18:0662] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:31:18:0663] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 13:31:19:0013] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:31:19:0144] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 13:31:19:0145] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[8040]
+[2023-05-12 13:31:19:0300] | GigEVisionManager.cpp-L4487: Lost Frame From Net[1784], Total Frame Count[0], NetCount[1785], CurBlock[0], LastBlock[1]
+[2023-05-12 13:31:28:0168] | GigEVisionManager.cpp-L2308: AppGetCount[167], AppGetCountSucceed[165], ExpectRecv[1949], NetRecv[165], ThrowAbnormalImage[0], NetLostFrame[1784], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 13:31:28:0281] | GigEVisionManager.cpp-L2308: AppGetCount[168], AppGetCountSucceed[165], ExpectRecv[1949], NetRecv[165], ThrowAbnormalImage[0], NetLostFrame[1784], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 13:31:28:0281] | GigEVisionManager.cpp-L0898: disconnect device ...
+[2023-05-12 13:31:28:0281] | GigEVisionManager.cpp-L2707: SendRsdCmd thread stop
+[2023-05-12 13:31:28:0294] | GigEVisionManager.cpp-L2308: AppGetCount[168], AppGetCountSucceed[165], ExpectRecv[1949], NetRecv[165], ThrowAbnormalImage[0], NetLostFrame[1784], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 13:31:28:0383] | GigEVisionManager.cpp-L2840: event thread stop
+[2023-05-12 13:31:28:0839] |   GigEVisionGVSP.cpp-L0417: [socket] NearBID[0], LastBID[0], output[0]
+[2023-05-12 13:38:44:0617] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 13:38:44:0617] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 13:38:44:0617] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:38:44:0617] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:38:44:0617] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[63248], devIP[a9fe4140]
+[2023-05-12 13:38:44:0618] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe4140]
+[2023-05-12 13:38:44:0618] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:38:44:0620] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 13:38:44:0971] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:38:45:0104] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 13:38:45:0106] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[6824]
+[2023-05-12 13:38:48:0635] | GigEVisionManager.cpp-L2308: AppGetCount[67], AppGetCountSucceed[65], ExpectRecv[65], NetRecv[65], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 13:38:48:0749] | GigEVisionManager.cpp-L2308: AppGetCount[67], AppGetCountSucceed[65], ExpectRecv[65], NetRecv[65], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 13:38:48:0749] | GigEVisionManager.cpp-L0898: disconnect device ...
+[2023-05-12 13:38:48:0749] | GigEVisionManager.cpp-L2707: SendRsdCmd thread stop
+[2023-05-12 13:38:48:0762] | GigEVisionManager.cpp-L2308: AppGetCount[67], AppGetCountSucceed[65], ExpectRecv[65], NetRecv[65], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 13:38:48:0821] | GigEVisionManager.cpp-L2840: event thread stop
+[2023-05-12 13:38:49:0983] |   GigEVisionGVSP.cpp-L0417: [socket] NearBID[0], LastBID[0], output[0]
+[2023-05-12 13:48:58:0496] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 13:48:58:0496] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 13:48:58:0496] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:48:58:0496] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:48:58:0496] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[58460], devIP[a9fe4140]
+[2023-05-12 13:48:58:0497] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe4140]
+[2023-05-12 13:48:58:0497] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:48:58:0499] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 13:48:58:0849] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 13:48:58:0981] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 13:48:58:0982] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[15388]
+[2023-05-12 13:49:02:0086] | GigEVisionManager.cpp-L2308: AppGetCount[58], AppGetCountSucceed[57], ExpectRecv[57], NetRecv[57], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 13:49:02:0200] | GigEVisionManager.cpp-L2308: AppGetCount[59], AppGetCountSucceed[57], ExpectRecv[57], NetRecv[57], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 13:49:02:0200] | GigEVisionManager.cpp-L0898: disconnect device ...
+[2023-05-12 13:49:02:0200] | GigEVisionManager.cpp-L2707: SendRsdCmd thread stop
+[2023-05-12 13:49:02:0213] | GigEVisionManager.cpp-L2308: AppGetCount[59], AppGetCountSucceed[57], ExpectRecv[57], NetRecv[57], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 13:49:02:0283] | GigEVisionManager.cpp-L2840: event thread stop
+[2023-05-12 13:49:02:0664] |   GigEVisionGVSP.cpp-L0417: [socket] NearBID[0], LastBID[0], output[0]
+[2023-05-12 14:02:09:0049] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 14:02:09:0049] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 14:02:09:0049] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:02:09:0049] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:02:09:0049] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[55124], devIP[a9fe4140]
+[2023-05-12 14:02:09:0050] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe4140]
+[2023-05-12 14:02:09:0050] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:02:09:0052] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 14:02:09:0402] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:02:09:0533] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 14:02:09:0535] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[7848]
+[2023-05-12 14:02:54:0295] | GigEVisionManager.cpp-L2308: AppGetCount[836], AppGetCountSucceed[833], ExpectRecv[833], NetRecv[833], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 14:02:54:0410] | GigEVisionManager.cpp-L2308: AppGetCount[836], AppGetCountSucceed[833], ExpectRecv[833], NetRecv[833], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 14:02:54:0410] | GigEVisionManager.cpp-L0898: disconnect device ...
+[2023-05-12 14:02:54:0410] | GigEVisionManager.cpp-L2707: SendRsdCmd thread stop
+[2023-05-12 14:02:54:0413] | GigEVisionManager.cpp-L2840: event thread stop
+[2023-05-12 14:02:54:0422] | GigEVisionManager.cpp-L2308: AppGetCount[836], AppGetCountSucceed[833], ExpectRecv[833], NetRecv[833], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 14:02:55:0318] |   GigEVisionGVSP.cpp-L0417: [socket] NearBID[0], LastBID[0], output[0]
+[2023-05-12 14:03:33:0180] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 14:03:33:0180] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 14:03:33:0180] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:03:33:0180] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:03:33:0180] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[54153], devIP[a9fe4140]
+[2023-05-12 14:03:33:0182] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe4140]
+[2023-05-12 14:03:33:0182] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:03:33:0183] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 14:03:33:0539] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:03:33:0670] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 14:03:33:0672] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[3428]
+[2023-05-12 14:04:26:0803] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 14:04:26:0803] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 14:04:26:0804] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:04:26:0804] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:04:26:0804] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[62103], devIP[a9fe4140]
+[2023-05-12 14:04:26:0805] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe4140]
+[2023-05-12 14:04:26:0805] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:04:26:0806] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 14:04:27:0161] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:04:27:0293] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 14:04:27:0295] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[17400]
+[2023-05-12 14:04:27:0371] | GigEVisionManager.cpp-L4487: Lost Frame From Net[58], Total Frame Count[0], NetCount[59], CurBlock[0], LastBlock[1]
+[2023-05-12 14:05:15:0988] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:05:16:0489] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:05:17:0000] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:05:17:0500] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:05:18:0012] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:05:18:0512] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:05:19:0012] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:05:19:0512] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:05:19:0512] |   GigEVisionGVCP.cpp-L1799: gvcp connect time out! [3000],  nPrivilegeValue[1], nHaveTimeOut[3024.230], fStart[31770723.819], sendHeartBeatTimes[3]
+[2023-05-12 14:05:57:0202] |   GigEVisionGVCP.cpp-L1474: GVCP_WriteCmd fail [80000206], because m_bExit 
+[2023-05-12 14:05:57:0203] | GigEVisionManager.cpp-L2308: AppGetCount[1313], AppGetCountSucceed[895], ExpectRecv[953], NetRecv[895], ThrowAbnormalImage[0], NetLostFrame[58], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 14:05:57:0304] | GigEVisionManager.cpp-L2308: AppGetCount[1314], AppGetCountSucceed[895], ExpectRecv[953], NetRecv[895], ThrowAbnormalImage[0], NetLostFrame[58], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 14:05:57:0304] | GigEVisionManager.cpp-L0898: disconnect device ...
+[2023-05-12 14:05:57:0304] | GigEVisionManager.cpp-L2308: AppGetCount[1314], AppGetCountSucceed[895], ExpectRecv[953], NetRecv[895], ThrowAbnormalImage[0], NetLostFrame[58], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 14:05:57:0304] | GigEVisionManager.cpp-L2707: SendRsdCmd thread stop
+[2023-05-12 14:05:57:0385] | GigEVisionManager.cpp-L2840: event thread stop
+[2023-05-12 14:05:57:0385] |   GigEVisionGVSP.cpp-L0417: [socket] NearBID[0], LastBID[0], output[0]
+[2023-05-12 14:05:58:0623] | GigEVisionManager.cpp-L0272: driver mode start!
+[2023-05-12 14:05:58:0623] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2023-05-12 14:05:58:0623] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:05:58:0623] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:05:58:0623] | GigEVisionManager.cpp-L0818: connecting device ... hostIP[a9fec2ce], hostPort[61298], devIP[a9fe4140]
+[2023-05-12 14:05:58:0625] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fec2ce], m_nUpDevIP[a9fe4140]
+[2023-05-12 14:05:58:0625] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:05:58:0627] | GigEVisionManager.cpp-L2769: event thread start...
+[2023-05-12 14:05:58:0980] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fec2ce]
+[2023-05-12 14:05:59:0112] | GigEVisionManager.cpp-L1152: GetCurCompressMode Execute Fails Node is not readable. : AccessException thrown in node 'ImageCompressionMode' while calling 'ImageCompressionMode.GetIntValue()' (file 'EnumerationT.h', line 131)
+[2023-05-12 14:05:59:0114] | GigEVisionManager.cpp-L2661: GigE SendRsdCmdThread Start, ThreadId[7840]
+[2023-05-12 14:05:59:0190] | GigEVisionManager.cpp-L4487: Lost Frame From Net[961], Total Frame Count[0], NetCount[962], CurBlock[0], LastBlock[1]
+[2023-05-12 14:06:24:0935] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:06:25:0436] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:06:25:0947] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:06:26:0447] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:06:26:0958] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:06:27:0459] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:06:27:0960] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:06:28:0460] |   GigEVisionGVCP.cpp-L1544: gvcp UDP_ReadnTimeout nRequestTimeOut[500000], return[0]!
+[2023-05-12 14:06:28:0460] |   GigEVisionGVCP.cpp-L1799: gvcp connect time out! [3000],  nPrivilegeValue[1], nHaveTimeOut[3023.965], fStart[31839671.434], sendHeartBeatTimes[3]
+[2023-05-12 14:07:18:0539] |   GigEVisionGVCP.cpp-L1474: GVCP_WriteCmd fail [80000206], because m_bExit 
+[2023-05-12 14:07:18:0539] | GigEVisionManager.cpp-L2308: AppGetCount[1002], AppGetCountSucceed[452], ExpectRecv[1413], NetRecv[452], ThrowAbnormalImage[0], NetLostFrame[961], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 14:07:18:0561] | GigEVisionManager.cpp-L2308: AppGetCount[1002], AppGetCountSucceed[452], ExpectRecv[1413], NetRecv[452], ThrowAbnormalImage[0], NetLostFrame[961], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 14:07:18:0561] | GigEVisionManager.cpp-L0898: disconnect device ...
+[2023-05-12 14:07:18:0561] | GigEVisionManager.cpp-L2308: AppGetCount[1002], AppGetCountSucceed[452], ExpectRecv[1413], NetRecv[452], ThrowAbnormalImage[0], NetLostFrame[961], ThrowInBufList[0], LostPackets[0]
+[2023-05-12 14:07:18:0561] | GigEVisionManager.cpp-L2707: SendRsdCmd thread stop
+[2023-05-12 14:07:18:0596] | GigEVisionManager.cpp-L2840: event thread stop
+[2023-05-12 14:07:18:0597] |   GigEVisionGVSP.cpp-L0417: [socket] NearBID[0], LastBID[0], output[0]

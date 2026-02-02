@@ -1,0 +1,34 @@
+c:\users\fly\documents\visual studio 2015\Projects\BJJCZ_BaseDevelop\BJJCZ_BaseDevelop\bin\Debug\BJJCZ_BaseDevelop.exe
+c:\users\fly\documents\visual studio 2015\Projects\BJJCZ_BaseDevelop\BJJCZ_BaseDevelop\bin\Debug\BJJCZ_BaseDevelop.pdb
+c:\users\fly\documents\visual studio 2015\Projects\BJJCZ_BaseDevelop\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.Form1.resources
+c:\users\fly\documents\visual studio 2015\Projects\BJJCZ_BaseDevelop\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.Properties.Resources.resources
+c:\users\fly\documents\visual studio 2015\Projects\BJJCZ_BaseDevelop\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.csproj.GenerateResource.Cache
+c:\users\fly\documents\visual studio 2015\Projects\BJJCZ_BaseDevelop\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.exe
+c:\users\fly\documents\visual studio 2015\Projects\BJJCZ_BaseDevelop\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.pdb
+C:\Users\iwant\Desktop\Ezcad2文件\BJJCZ_Ezcad2\BJJCZ_Ezcad2\Demo\C#\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.exe
+C:\Users\iwant\Desktop\Ezcad2文件\BJJCZ_Ezcad2\BJJCZ_Ezcad2\Demo\C#\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.pdb
+C:\Users\iwant\Desktop\Ezcad2文件\BJJCZ_Ezcad2\BJJCZ_Ezcad2\Demo\C#\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\bin\Debug\BJJCZ_BaseDevelop.exe
+C:\Users\iwant\Desktop\Ezcad2文件\BJJCZ_Ezcad2\BJJCZ_Ezcad2\Demo\C#\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\bin\Debug\BJJCZ_BaseDevelop.pdb
+C:\Users\iwant\Desktop\Ezcad2文件\BJJCZ_Ezcad2\BJJCZ_Ezcad2\Demo\C#\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.csprojResolveAssemblyReference.cache
+C:\Users\iwant\Desktop\Ezcad2文件\BJJCZ_Ezcad2\BJJCZ_Ezcad2\Demo\C#\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.Form1.resources
+C:\Users\iwant\Desktop\Ezcad2文件\BJJCZ_Ezcad2\BJJCZ_Ezcad2\Demo\C#\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.Properties.Resources.resources
+C:\Users\iwant\Desktop\Ezcad2文件\BJJCZ_Ezcad2\BJJCZ_Ezcad2\Demo\C#\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.csproj.GenerateResource.Cache
+D:\liutao\工作\A-SDK\ezcad2.0  demo\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.exe
+D:\liutao\工作\A-SDK\ezcad2.0  demo\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.pdb
+D:\liutao\工作\A-SDK\ezcad2.0  demo\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\bin\Debug\BJJCZ_BaseDevelop.exe
+D:\liutao\工作\A-SDK\ezcad2.0  demo\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\bin\Debug\BJJCZ_BaseDevelop.pdb
+D:\liutao\工作\A-SDK\ezcad2.0  demo\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.csprojResolveAssemblyReference.cache
+D:\liutao\工作\A-SDK\ezcad2.0  demo\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.Form1.resources
+D:\liutao\工作\A-SDK\ezcad2.0  demo\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.Properties.Resources.resources
+D:\liutao\工作\A-SDK\ezcad2.0  demo\BJJCZ_EZCAD2.0_基础开发\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.csproj.GenerateResource.Cache
+D:\liutao\工作\A-SDK\ezcad2.0  demo\英文\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.exe
+D:\liutao\工作\A-SDK\ezcad2.0  demo\英文\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.pdb
+D:\liutao\工作\A-SDK\ezcad2.0  demo\英文\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\BJJCZ_BaseDevelop.exe
+D:\liutao\工作\A-SDK\ezcad2.0  demo\英文\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\BJJCZ_BaseDevelop.pdb
+D:\liutao\工作\A-SDK\ezcad2.0  demo\英文\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.Form1.resources
+D:\liutao\工作\A-SDK\ezcad2.0  demo\英文\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.Properties.Resources.resources
+D:\liutao\工作\A-SDK\ezcad2.0  demo\英文\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.csproj.GenerateResource.Cache
+D:\liutao\工作\A-SDK\ezcad2.0  demo\英文\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.csproj.CoreCompileInputs.cache
+D:\liutao\工作\A-SDK\ezcad2.0  demo\英文\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\bin\Debug\BJJCZ_BaseDevelop.exe.config
+D:\liutao\工作\A-SDK\ezcad2.0  demo\英文\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.csproj.AssemblyReference.cache
+D:\liutao\工作\A-SDK\ezcad2.0  demo\英文\BJJCZ_EZCAD2.0-Basic English\BJJCZ_BaseDevelop\obj\Debug\BJJCZ_BaseDevelop.csproj.SuggestedBindingRedirects.cache
